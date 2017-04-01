@@ -79,11 +79,11 @@
 
 # 5 特征选择以特征提取
 
-5.1 survey
+## 5.1 survey
 
 **[1]** Pölsterl, Sebastian, et al. "**Survival analysis for high-dimensional, heterogeneous medical data: Exploring feature extraction as an alternative to feature selection.**" Artificial Intelligence in Medicine 72 (2016): 1-11.
 
-5.2 paper
+## 5.2 paper
 
 **[1]** Das, Sanmay. "**Filters, wrappers and a boosting-based hybrid for feature selection.**" ICML. Vol. 1. 2001.[[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.124.5264&rep=rep1&type=pdf)
 
