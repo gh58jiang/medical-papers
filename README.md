@@ -7,7 +7,7 @@
 - paper的格式请按照标题1.0下的格式来编辑，并放到相应的标题下，如没有对应的标题可以自建标题。
 - 标题1.0下已经演示使用方式。
 - commit时请填写更新详细描述。
-
+- 类别是临时确定的，如果大家修改的时候发现更好的分类方式可以修改
 ---------------------------------------
 # 1 保险欺诈
 
@@ -41,11 +41,15 @@
 
 **[7]** Ng, Kenney, et al. "**PARAMO: A PARAllel predictive MOdeling platform for healthcare analytic research using electronic health records.**" Journal of biomedical informatics 48 (2014): 160-170.[[pdf]](http://www.sciencedirect.com/science/article/pii/S1532046413002037)
 
-**[8]**Ooi, Beng Chin, et al. "**Contextual crowd intelligence.**" ACM SIGKDD Explorations Newsletter 16.1 (2014): 39-46.[[pdf]](http://delivery.acm.org/10.1145/2680000/2674032/p39-ooi.pdf?ip=222.175.103.7&id=2674032&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EBA9BBD89F2E1EC6A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=745787523&CFTOKEN=94923865&__acm__=1491034212_2c5ac27741f919317cead47f564bdae3)
+**[8]** Ooi, Beng Chin, et al. "**Contextual crowd intelligence.**" ACM SIGKDD Explorations Newsletter 16.1 (2014): 39-46.[[pdf]](http://delivery.acm.org/10.1145/2680000/2674032/p39-ooi.pdf?ip=222.175.103.7&id=2674032&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EBA9BBD89F2E1EC6A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=745787523&CFTOKEN=94923865&__acm__=1491034212_2c5ac27741f919317cead47f564bdae3)
 
 **[9]** Hwang, San-Yih, Chih-Ping Wei, and Wan-Shiou Yang. "**Discovery of temporal patterns from process instances.**" Computers in industry 53.3 (2004): 345-364.[[pdf]](http://www.sciencedirect.com/science/article/pii/S0166361503002008)
 
 **[10]** Yang, Wan-Shiou, and San-Yih Hwang. "**A process-mining framework for the detection of healthcare fraud and abuse.**" Expert Systems with Applications 31.1 (2006): 56-68.[[pdf]](http://www.sciencedirect.com/science/article/pii/S0957417405001892)
+
+**[11]** Cao, Ni, et al. "**Predictive and preventive models for diabetes prevention using clinical information in electronic health record.**" Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on. IEEE, 2015. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7359799)
+
+**[12]** Choi, Edward, Mohammad Taha Bahadori, and Jimeng Sun. "**Doctor ai: Predicting clinical events via recurrent neural networks.**" arXiv preprint arXiv:1511.05942 (2015). [[pdf]](http://www.jmlr.org/proceedings/papers/v56/Choi16.pdf)
 
 ## 2.2 疾病概率排序
 
@@ -74,22 +78,27 @@
 **[2]** Ho, Joyce C., Joydeep Ghosh, and Jimeng Sun. "**Marble: high-throughput phenotyping from electronic health records via sparse nonnegative tensor factorization.**" Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2014.[[pdf]](http://dl.acm.org/citation.cfm?id=2623658)
 
 # 5 特征选择以特征提取
-## 2.0 book
 
-## 2.1 survey
+5.1 survey
 
-## 2.2 paper
+**[1]** Pölsterl, Sebastian, et al. "**Survival analysis for high-dimensional, heterogeneous medical data: Exploring feature extraction as an alternative to feature selection.**" Artificial Intelligence in Medicine 72 (2016): 1-11.
+
+5.2 paper
+
+**[1]** Das, Sanmay. "**Filters, wrappers and a boosting-based hybrid for feature selection.**" ICML. Vol. 1. 2001.[[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.124.5264&rep=rep1&type=pdf)
+
+**[2]** Kamadi, VSRP Varma, Appa Rao Allam, and Sita Mahalakshmi Thummala. "**A computational intelligence technique for the effective diagnosis of diabetic patients using principal component analysis (PCA) and modified fuzzy SLIQ decision tree approach.**" Applied Soft Computing 49 (2016): 137-145.[[pdf]](http://www.sciencedirect.com/science/article/pii/S1568494616302113)
+
+**[3]** Nezhad, Milad Zafar, et al. "**SAFS: A deep feature selection approach for precision medicine.**" Bioinformatics and Biomedicine (BIBM), 2016 IEEE International Conference on. IEEE, 2016.[[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7822569)
+
 # 6 临床决策 
 **[1]** Goodwin, Travis R., and Sanda M. Harabagiu. "**Medical Question Answering for Clinical Decision Support.**" Proceedings of the 25th ACM International on Conference on Information and Knowledge Management. ACM, 2016.[[pdf]](http://delivery.acm.org/10.1145/2990000/2983819/p297-goodwin.pdf?ip=222.175.103.7&id=2983819&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EBA9BBD89F2E1EC6A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=745787523&CFTOKEN=94923865&__acm__=1491032989_02547aad79165885b21a34fab01324dc)
-# 7 精准医疗
-## 2.0 book
 
-## 2.1 survey
 
-## 2.2 paper
-# 8 老年人保健与护理
-## 8.1 老年人保健行为模式
+
+# 7 老年人保健与护理
+## 7.1 老年人保健行为模式
 **[1]** Hung, Yu-Shiang, et al. "**Web usage mining for analysing elder self-care behavior patterns.**" Expert Systems with Applications 40.2 (2013): 775-783.[[pdf]](http://www.sciencedirect.com/science/article/pii/S0957417412009980)
 
-## 8.2 老年人护理
+## 7.2 老年人护理
 **[1]** Dipanwita Dasgupta, Keith Feldman, Disha Waghray, W.A. Mikels-Carrasco, Patty Willaert,Debra A. Raybold, Nitesh V. Chawla."**An Integrated Care Framework for Successful Aging.**" IEEE-EMBS International Conference on Biomedical & Health Informatics,440-443, 2014.
