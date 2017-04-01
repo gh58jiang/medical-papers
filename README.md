@@ -9,7 +9,16 @@
 - commit时请填写更新详细描述。
 
 ---------------------------------------
-# 1 医保欺诈
+# 1 保险欺诈
+
+## 1.1 医保欺诈
+
+### 1.1.0 book
+**[1]**Dua, Prerna, and Sonali Bais. "**Supervised learning methods for fraud detection in healthcare insurance.**" Machine Learning in Healthcare Informatics. Springer Berlin Heidelberg, 2014. 261-285.[[pdf]](https://link.springer.com/book/10.1007/978-3-642-40017-9)
+## 1.2 其他保险欺诈
+
+**[1]**Lovro Šubelj,Štefan Furlan,Marko Bajec. “**An expert system for detecting automobile insurance fraud using social network analysis**”.Expert Systems with Applications,38(1):1039-1052, 2011.[[pdf]](https://arxiv.org/pdf/1104.3904.pdf)
+
 # 2 疾病风险预测
 # 3 临床路径
 # 4 EHR加工
