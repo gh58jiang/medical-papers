@@ -17,8 +17,33 @@
 **[1]** Dua, Prerna, and Sonali Bais. "**Supervised learning methods for fraud detection in healthcare insurance.**" Machine Learning in Healthcare Informatics. Springer Berlin Heidelberg, 2014. 261-285.[[pdf]](https://link.springer.com/book/10.1007/978-3-642-40017-9)
 
 ### 1.1.1 Survey
+**[1]** Archenaa, J., and EA Mary Anita. "**A survey of big data analytics in healthcare and government.**" Procedia Computer Science 50 (2015): 408-413.[[pdf]](http://www.sciencedirect.com/science/article/pii/S1877050915005220)
+
+
 ### 1.1.2 paper
 **[1]** Joudaki, Hossein, et al. "**Using data mining to detect health care fraud and abuse: a review of literature.**" Global journal of health science 7.1 (2014): 194.[[pdf]](http://www.ccsenet.org/journal/index.php/gjhs/article/view/37879)
+
+**[2]** Olsen, Peder A., Ramesh Natarajan, and Sholom M. Weiss. "**Graphical Models for Identifying Fraud and Waste in Healthcare Claims.**" Proceedings of the 2014 SIAM International Conference on Data Mining. Society for Industrial and Applied Mathematics, 2014.[[pdf]](http://epubs.siam.org/doi/pdf/10.1137/1.9781611973440.66) 
+
+**[3]** Chandola, Varun, Sreenivas R. Sukumar, and Jack C. Schryver. "**Knowledge discovery from massive healthcare claims data.**" Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2013.[[pdf]](http://delivery.acm.org/10.1145/2490000/2488205/p1312-chandola.pdf?ip=121.250.210.129&id=2488205&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EBA9BBD89F2E1EC6A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=746271729&CFTOKEN=53336169&__acm__=1491142231_4446e30b8d74ee5231e054c9f0dbc0ca)
+
+**[4]** Weiss, Sholom M., et al. "**Managing healthcare costs by peer-group modeling.**" Applied Intelligence 43.4 (2015): 752-759.[[pdf]](https://link.springer.com/article/10.1007/s10489-015-0685-7)
+
+**[5]** Rawte, Vipula, and G. Anuradha. "**Fraud detection in health insurance using data mining techniques.**" Communication, Information & Computing Technology (ICCICT), 2015 International Conference on. IEEE, 2015.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7045689/?reload=true)
+
+**[6]** Liu, Juan, et al. "**Graph Analysis for Detecting Fraud, Waste, and Abuse in Healthcare Data.**" AAAI. 2015.[[pdf]](https://pdfs.semanticscholar.org/1ea7/125b789ef938bffe10c7588e6b071c4ff73c.pdf)
+
+**[7]** Shadmi, Efrat, et al. "**Predicting 30-day readmissions with preadmission electronic health record data.**" Medical care 53.3 (2015): 283-289.[[pdf]](http://journals.lww.com/lww-medicalcare/Abstract/2015/03000/Predicting_30_Day_Readmissions_With_Preadmission.10.aspx)
+
+**[8]** Choi, Edward, et al. "**Constructing disease network and temporal progression model via context-sensitive hawkes process.**" Data Mining (ICDM), 2015 IEEE International Conference on. IEEE, 2015.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7373379/)
+
+**[9}** Viceconti, Marco, Peter Hunter, and Rod Hose. "**Big data, big knowledge: big data for personalized healthcare.**" IEEE journal of biomedical and health informatics 19.4 (2015): 1209-1215.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7047725/)
+
+**[10]** Liu, Peng, et al. "**Healthcare data mining: Prediction inpatient length of stay.**" Intelligent Systems, 2006 3rd International IEEE Conference on. IEEE, 2006.[[pdf]](http://ieeexplore.ieee.org/abstract/document/4155535/)
+
+**[11]** Lin, Chin-Ho, et al. "**Temporal event tracing on big healthcare data analytics.**" Big Data Applications and Use Cases. Springer International Publishing, 2016. 95-108.[[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-30146-4_5)
+
+**[12]** Getchius, Jeffrey M. "**Healthcare fraud detection with machine learning.**" U.S. Patent Application No. 13/689,168.[[pdf]](http://www.freepatentsonline.com/20140149128.pdf)
 
 ## 1.2 其他保险欺诈
 
