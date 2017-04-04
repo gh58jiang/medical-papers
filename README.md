@@ -45,6 +45,11 @@
 
 **[12]** Getchius, Jeffrey M. "**Healthcare fraud detection with machine learning.**" U.S. Patent Application No. 13/689,168.[[pdf]](http://www.freepatentsonline.com/20140149128.pdf)
 
+**[13]** Xu, Hongteng, et al. "**Patient Flow Prediction via Discriminative Learning of Mutually-Correcting Processes.**" IEEE Transactions on Knowledge and Data Engineering 29.1 (2017): 157-171.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7593326/)
+
+**[14]** Branting, L. Karl, et al. "**Graph analytics for healthcare fraud risk estimation.**" Advances in Social Networks Analysis and Mining (ASONAM), 2016 IEEE/ACM International Conference on. IEEE, 2016.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7752336/)
+
+**[15]** Cui, Haoyi, et al. "**Healthcare Fraud Detection Based on Trustworthiness of Doctors.**" Trustcom/BigDataSE/I SPA, 2016 IEEE. IEEE, 2016. [[pdf]](http://ieeexplore.ieee.org/abstract/document/7846931/)
 ## 1.2 其他保险欺诈
 
 **[1]** Lovro Šubelj,Štefan Furlan,Marko Bajec. “**An expert system for detecting automobile insurance fraud using social network analysis**”.Expert Systems with Applications,38(1):1039-1052, 2011.[[pdf]](https://arxiv.org/pdf/1104.3904.pdf)
