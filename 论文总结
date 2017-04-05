@@ -1,0 +1,142 @@
+# 健康医疗大数据组的论文总结
+填写须知：
+-------
+- 这里总结的论文为文件paper-list重点文章
+---------------------------------------
+# 1 保险欺诈
+
+## 1.1 医保欺诈
+
+### 1.1.0 book
+**[1]** Dua, Prerna, and Sonali Bais. "**Supervised learning methods for fraud detection in healthcare insurance.**" Machine Learning in Healthcare Informatics. Springer Berlin Heidelberg, 2014. 261-285.[[pdf]](https://link.springer.com/book/10.1007/978-3-642-40017-9)
+
+
+
+### 1.1.1 Survey
+**[1]** Archenaa, J., and EA Mary Anita. "**A survey of big data analytics in healthcare and government.**" Procedia Computer Science 50 (2015): 408-413.[[pdf]](http://www.sciencedirect.com/science/article/pii/S1877050915005220)
+
+
+### 1.1.2 paper
+**[1]** Joudaki, Hossein, et al. "**Using data mining to detect health care fraud and abuse: a review of literature.**" Global journal of health science 7.1 (2014): 194.[[pdf]](http://www.ccsenet.org/journal/index.php/gjhs/article/view/37879)
+
+**[2]** Olsen, Peder A., Ramesh Natarajan, and Sholom M. Weiss. "**Graphical Models for Identifying Fraud and Waste in Healthcare Claims.**" Proceedings of the 2014 SIAM International Conference on Data Mining. Society for Industrial and Applied Mathematics, 2014.[[pdf]](http://epubs.siam.org/doi/pdf/10.1137/1.9781611973440.66) 
+
+**[3]** Chandola, Varun, Sreenivas R. Sukumar, and Jack C. Schryver. "**Knowledge discovery from massive healthcare claims data.**" Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2013.[[pdf]](http://delivery.acm.org/10.1145/2490000/2488205/p1312-chandola.pdf?ip=121.250.210.129&id=2488205&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EBA9BBD89F2E1EC6A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=746271729&CFTOKEN=53336169&__acm__=1491142231_4446e30b8d74ee5231e054c9f0dbc0ca)
+
+**[4]** Weiss, Sholom M., et al. "**Managing healthcare costs by peer-group modeling.**" Applied Intelligence 43.4 (2015): 752-759.[[pdf]](https://link.springer.com/article/10.1007/s10489-015-0685-7)
+
+**[5]** Rawte, Vipula, and G. Anuradha. "**Fraud detection in health insurance using data mining techniques.**" Communication, Information & Computing Technology (ICCICT), 2015 International Conference on. IEEE, 2015.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7045689/?reload=true)
+
+**[6]** Liu, Juan, et al. "**Graph Analysis for Detecting Fraud, Waste, and Abuse in Healthcare Data.**" AAAI. 2015.[[pdf]](https://pdfs.semanticscholar.org/1ea7/125b789ef938bffe10c7588e6b071c4ff73c.pdf)
+
+**[7]** Shadmi, Efrat, et al. "**Predicting 30-day readmissions with preadmission electronic health record data.**" Medical care 53.3 (2015): 283-289.[[pdf]](http://journals.lww.com/lww-medicalcare/Abstract/2015/03000/Predicting_30_Day_Readmissions_With_Preadmission.10.aspx)
+
+**[8]** Choi, Edward, et al. "**Constructing disease network and temporal progression model via context-sensitive hawkes process.**" Data Mining (ICDM), 2015 IEEE International Conference on. IEEE, 2015.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7373379/)
+
+**[9}** Viceconti, Marco, Peter Hunter, and Rod Hose. "**Big data, big knowledge: big data for personalized healthcare.**" IEEE journal of biomedical and health informatics 19.4 (2015): 1209-1215.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7047725/)
+
+**[10]** Liu, Peng, et al. "**Healthcare data mining: Prediction inpatient length of stay.**" Intelligent Systems, 2006 3rd International IEEE Conference on. IEEE, 2006.[[pdf]](http://ieeexplore.ieee.org/abstract/document/4155535/)
+
+**[11]** Lin, Chin-Ho, et al. "**Temporal event tracing on big healthcare data analytics.**" Big Data Applications and Use Cases. Springer International Publishing, 2016. 95-108.[[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-30146-4_5)
+
+**[12]** Getchius, Jeffrey M. "**Healthcare fraud detection with machine learning.**" U.S. Patent Application No. 13/689,168.[[pdf]](http://www.freepatentsonline.com/20140149128.pdf)
+
+**[13]** Xu, Hongteng, et al. "**Patient Flow Prediction via Discriminative Learning of Mutually-Correcting Processes.**" IEEE Transactions on Knowledge and Data Engineering 29.1 (2017): 157-171.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7593326/)
+
+**[14]** Branting, L. Karl, et al. "**Graph analytics for healthcare fraud risk estimation.**" Advances in Social Networks Analysis and Mining (ASONAM), 2016 IEEE/ACM International Conference on. IEEE, 2016.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7752336/)
+
+**[15]** Cui, Haoyi, et al. "**Healthcare Fraud Detection Based on Trustworthiness of Doctors.**" Trustcom/BigDataSE/I SPA, 2016 IEEE. IEEE, 2016. [[pdf]](http://ieeexplore.ieee.org/abstract/document/7846931/)
+## 1.2 其他保险欺诈
+
+**[1]** Lovro Šubelj,Štefan Furlan,Marko Bajec. “**An expert system for detecting automobile insurance fraud using social network analysis**”.Expert Systems with Applications,38(1):1039-1052, 2011.[[pdf]](https://arxiv.org/pdf/1104.3904.pdf)
+[一个使用社交网络分析检测汽车保险欺诈的专家系统]
+   汽车保险领域的欺诈包括两种形式。一是团体欺诈,另一个是是个人欺诈。团体欺诈的欺诈者会自演假的交通事故，并发出假保险索赔，以从车辆保险获得（不合理的）资金。而保险公司最感兴趣的正是团体性欺诈，这些团体欺诈产生了大量的资金泄漏。
+   大多数分析专家都认定在所有保险中，大约20％索赔是以某种方式进行的欺诈。并且大多数的欺诈索赔没有被找出，因为欺诈调查通常由领域专家或调查员手动进行，并且很少计算机的支持， 数据不适当的表示也很常见，这些情况使得对欺诈者的检测极其困难。
+   为此，文章提出了一个专家系统进行检测欺诈，相对其他许多方法，该系统使用网络表示数据。网络是表示这样一个关系域的最自然的表示，可以研究实体之间的复杂关系，对他们的关系进行规范化、分析。·系统采用了一种新的评估算法发现欺诈实体，叫做迭代评估算法（IAA）·。除了实体的固有属性，该算法还探讨实体之间的关系。最后对该系统，通过利用现实世界的数据，进行评估和严格的分析。
+   实验： 该数据集包括1999年至2008年之间斯洛文尼亚1561次事故的3451名参与者。结果CA（分类精确度）为0.8720， Recall(true positive rate)为 0.8913 ，Precision (positive predictive value)为0.6508， Specificity(1− false positive rate)为 0.8667，F1 score（）为 0.7523， AUC(harmonic mean of recall and precision) 为 0.9228。结果表明系统可以有效地检测出汽车保险欺诈。
+
+
+
+# 2 疾病风险与概率
+
+## 2.1 疾病风险预测
+**[1]** Steinberg, Gregory B., et al. "**Novel predictive models for metabolic syndrome risk: a" big data" analytic approach.**" The American journal of managed care 20.6 (2014): e221-8.[[pdf]](http://europepmc.org/abstract/med/25180505)
+
+**[2]** Zheng, Bichen, et al. "**Predictive modeling of hospital readmissions using metaheuristics and data mining.**" Expert Systems with Applications 42.20 (2015): 7110-7120.[[pdf]](http://www.sciencedirect.com/science/article/pii/S0957417415003085)
+
+**[3]** Zhou, Jiayu, et al. "**From micro to macro: data driven phenotyping by densification of longitudinal electronic medical records.**" Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2014.[[pdf]](http://dl.acm.org/citation.cfm?id=2623711)
+
+**[4]** Ling, Zheng Jye, et al. "**GEMINI: an integrative healthcare analytics system.**" Proceedings of the VLDB Endowment 7.13 (2014): 1766-1771.[[pdf]](http://dl.acm.org/citation.cfm?id=2733081)
+
+**[5]** Miotto, Riccardo, et al. "**Deep patient: An unsupervised representation to predict the future of patients from the electronic health records.**" Scientific reports 6 (2016).[[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4869115/)
+
+**[6]** Liu, Chuanren, et al. "**Temporal phenotyping from longitudinal electronic health records: A graph based framework.**" Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015.[[pdf]](http://delivery.acm.org/10.1145/2790000/2783352/p705-liu.pdf?ip=222.175.103.7&id=2783352&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EBA9BBD89F2E1EC6A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=745787523&CFTOKEN=94923865&__acm__=1491033957_5f467ba07cec73d25d5f000f5099f9fb)
+
+**[7]** Ng, Kenney, et al. "**PARAMO: A PARAllel predictive MOdeling platform for healthcare analytic research using electronic health records.**" Journal of biomedical informatics 48 (2014): 160-170.[[pdf]](http://www.sciencedirect.com/science/article/pii/S1532046413002037)
+
+**[8]** Ooi, Beng Chin, et al. "**Contextual crowd intelligence.**" ACM SIGKDD Explorations Newsletter 16.1 (2014): 39-46.[[pdf]](http://delivery.acm.org/10.1145/2680000/2674032/p39-ooi.pdf?ip=222.175.103.7&id=2674032&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EBA9BBD89F2E1EC6A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=745787523&CFTOKEN=94923865&__acm__=1491034212_2c5ac27741f919317cead47f564bdae3)
+
+**[9]** Hwang, San-Yih, Chih-Ping Wei, and Wan-Shiou Yang. "**Discovery of temporal patterns from process instances.**" Computers in industry 53.3 (2004): 345-364.[[pdf]](http://www.sciencedirect.com/science/article/pii/S0166361503002008)
+
+**[10]** Yang, Wan-Shiou, and San-Yih Hwang. "**A process-mining framework for the detection of healthcare fraud and abuse.**" Expert Systems with Applications 31.1 (2006): 56-68.[[pdf]](http://www.sciencedirect.com/science/article/pii/S0957417405001892)
+
+**[11]** Cao, Ni, et al. "**Predictive and preventive models for diabetes prevention using clinical information in electronic health record.**" Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on. IEEE, 2015. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7359799)
+
+**[12]** Choi, Edward, Mohammad Taha Bahadori, and Jimeng Sun. "**Doctor ai: Predicting clinical events via recurrent neural networks.**" arXiv preprint arXiv:1511.05942 (2015). [[pdf]](http://www.jmlr.org/proceedings/papers/v56/Choi16.pdf)
+
+## 2.2 疾病概率排序
+
+**[1]** Davis, Darcy A., et al. "**Time to CARE: a collaborative engine for practical disease prediction.**" Data Mining and Knowledge Discovery 20.3 (2010): 388-415.[[pdf]](https://link.springer.com/article/10.1007%2Fs10618-009-0156-z?LI=true)
+
+**[2]** Davis, Darcy A., et al. "**Predicting individual disease risk based on medical history.**" Proceedings of the 17th ACM conference on Information and knowledge management. ACM, 2008.[[pdf]](http://dl.acm.org/citation.cfm?id=1458185)
+
+**[3]** Dentino, Brian, Darcy Davis, and Nitesh V. Chawla. "**HealthCareND: leveraging EHR and CARE for prospective healthcare.**" Proceedings of the 1st ACM International Health Informatics Symposium. ACM, 2010.[[pdf]](http://dl.acm.org/citation.cfm?id=1883121)
+**[3]** Chawla, Nitesh V., and Darcy A. Davis. "**Bringing big data to personalized healthcare: a patient-centered framework.**" Journal of general internal medicine 28.3 (2013): 660-665.[[pdf]](https://link.springer.com/article/10.1007/s11606-013-2455-8)
+
+**[4]** Feldman, Keith, Darcy Davis, and Nitesh V. Chawla. "**Scaling and contextualizing personalized healthcare: a case study of disease prediction algorithm integration.**" Journal of biomedical informatics 57 (2015): 377-385.[[pdf]](http://www.sciencedirect.com/science/article/pii/S1532046415001574)
+
+**[5]** Ji, Xiang, et al. "**Collaborative and trajectory prediction models of medical conditions by mining patients' Social Data.**" Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on. IEEE, 2015.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7359771/?reload=true)
+
+
+
+# 3 临床路径
+
+**[1]** Huang, Zhengxing, Xudong Lu, and Huilong Duan. "**Latent treatment pattern discovery for clinical processes.**" Journal of medical systems 37.2 (2013): 9915.[[pdf]](https://link.springer.com/article/10.1007/s10916-012-9915-2)
+
+**[2]** Huang, Zhengxing, Xudong Lu, and Huilong Duan. "**On mining clinical pathway patterns from medical behaviors.**" Artificial intelligence in medicine 56.1 (2012): 35-50.[[pdf]](http://www.sciencedirect.com/science/article/pii/S0933365712000656)
+
+# 4 EHR加工
+**[1]** Liu, Chuanren, et al. "**Temporal phenotyping from longitudinal electronic health records: A graph based framework.**" Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015.[[pdf]](http://dl.acm.org/citation.cfm?id=2783352)
+
+**[2]** Ho, Joyce C., Joydeep Ghosh, and Jimeng Sun. "**Marble: high-throughput phenotyping from electronic health records via sparse nonnegative tensor factorization.**" Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2014.[[pdf]](http://dl.acm.org/citation.cfm?id=2623658)
+
+# 5 特征选择以特征提取
+
+## 5.1 survey
+
+**[1]** Alelyani, Salem, Jiliang Tang, and Huan Liu. "**Feature Selection for Clustering: A Review.**" Data Clustering: Algorithms and Applications 29 (2013): 110-121.[[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.295.8115&rep=rep1&type=pdf)
+
+## 5.2 paper
+
+**[1]** Das, Sanmay. "**Filters, wrappers and a boosting-based hybrid for feature selection.**" ICML. Vol. 1. 2001.[[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.124.5264&rep=rep1&type=pdf)
+
+**[2]** Kamadi, VSRP Varma, Appa Rao Allam, and Sita Mahalakshmi Thummala. "**A computational intelligence technique for the effective diagnosis of diabetic patients using principal component analysis (PCA) and modified fuzzy SLIQ decision tree approach.**" Applied Soft Computing 49 (2016): 137-145.[[pdf]](http://www.sciencedirect.com/science/article/pii/S1568494616302113)
+
+**[3]** Pölsterl, Sebastian, et al. "**Survival analysis for high-dimensional, heterogeneous medical data: Exploring feature extraction as an alternative to feature selection.**" Artificial Intelligence in Medicine 72 (2016): 1-11.
+
+
+**[4]** Nezhad, Milad Zafar, et al. "**SAFS: A deep feature selection approach for precision medicine.**" Bioinformatics and Biomedicine (BIBM), 2016 IEEE International Conference on. IEEE, 2016.[[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7822569)
+
+
+
+# 6 临床决策 
+**[1]** Goodwin, Travis R., and Sanda M. Harabagiu. "**Medical Question Answering for Clinical Decision Support.**" Proceedings of the 25th ACM International on Conference on Information and Knowledge Management. ACM, 2016.[[pdf]](http://delivery.acm.org/10.1145/2990000/2983819/p297-goodwin.pdf?ip=222.175.103.7&id=2983819&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EBA9BBD89F2E1EC6A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=745787523&CFTOKEN=94923865&__acm__=1491032989_02547aad79165885b21a34fab01324dc)
+
+
+
+# 7 老年人保健与护理
+## 7.1 老年人保健行为模式
+**[1]** Hung, Yu-Shiang, et al. "**Web usage mining for analysing elder self-care behavior patterns.**" Expert Systems with Applications 40.2 (2013): 775-783.[[pdf]](http://www.sciencedirect.com/science/article/pii/S0957417412009980)
+
+## 7.2 老年人护理
+**[1]** Dipanwita Dasgupta, Keith Feldman, Disha Waghray, W.A. Mikels-Carrasco, Patty Willaert,Debra A. Raybold, Nitesh V. Chawla."**An Integrated Care Framework for Successful Aging.**" IEEE-EMBS International Conference on Biomedical & Health Informatics,440-443, 2014.
