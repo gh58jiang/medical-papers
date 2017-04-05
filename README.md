@@ -65,9 +65,31 @@
 
 **[23]** Lu, Hsin-Min, Chih-Ping Wei, and Fei-Yuan Hsiao. "**Modeling healthcare data using multiple-channel latent Dirichlet allocation.**" Journal of biomedical informatics 60 (2016): 210-223.[[pdf]](http://www.sciencedirect.com/science/article/pii/S1532046416000253)
 
-## 1.2 其他保险欺诈
+## 1.2 非医保欺诈，但是可以借鉴的文章
 
 **[1]** Lovro Šubelj,Štefan Furlan,Marko Bajec. “**An expert system for detecting automobile insurance fraud using social network analysis**”.Expert Systems with Applications,38(1):1039-1052, 2011.[[pdf]](https://arxiv.org/pdf/1104.3904.pdf)
+
+**[2]** Derczynski, Leon, and Kalina Bontcheva. "**Spatio-temporal grounding of claims made on the web, in PHEME.**" Proceedings of the 10th Joint ISO-ACL SIGSEM Workshop on Interoperable Semantic Annotation, ISA. Vol. 14. 2014.[[pdf]](http://www.lrec-conf.org/proceedings/lrec2014/workshops/LREC2014Workshop-ISA-10%20Proceedings.pdf#page=73)
+
+**[3]** Liu, Chuanren, et al. "**Temporal skeletonization on sequential data: patterns, categorization, and visualization.**" IEEE Transactions on Knowledge and Data Engineering 28.1 (2016): 211-223.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7202877/)
+
+**[4]** Zhu, Hengshu, et al. "**Discovery of ranking fraud for mobile apps.**" IEEE Transactions on knowledge and data engineering 27.1 (2015): 74-87.[[pdf]](http://ieeexplore.ieee.org/abstract/document/6807765/)
+
+**[5]** Liu, Bin, et al. "**A general geographical probabilistic factor model for point of interest recommendation.**" IEEE Transactions on Knowledge and Data Engineering 27.5 (2015): 1167-1179.[[pdf]](http://ieeexplore.ieee.org/abstract/document/6919280/)
+
+**[6]** Sun, Jing, et al. "**Multi-source Information Fusion for Personalized Restaurant Recommendation.**" Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval. ACM, 2015.[[pdf]](http://dl.acm.org/citation.cfm?id=2767818)
+
+**[7]** Hu, Tianming, et al. "**High-dimensional clustering: a clique-based hypergraph partitioning framework.**" Knowledge and information systems 39.1 (2014): 61-88.[[pdf]](https://link.springer.com/article/10.1007/s10115-012-0609-3)
+
+**[8]** Tan, Chang, et al. "**Object-oriented travel package recommendation.**" ACM Transactions on Intelligent Systems and Technology (TIST) 5.3 (2014): 43.[[pdf]](http://dl.acm.org/citation.cfm?id=2542665)
+
+**[9]** Zhu, Hengshu, et al. "**Mining mobile user preferences for personalized context-aware recommendation.**" ACM Transactions on Intelligent Systems and Technology (TIST) 5.4 (2015): 58.[[pdf]](https://pdfs.semanticscholar.org/c731/0783621db37955c2652f2ca7049ebbd80f47.pdf)
+
+**[10]** Huai, Baoxing, et al. "**Toward personalized context recognition for mobile users: A semisupervised bayesian HMM approach.**" ACM Transactions on Knowledge Discovery from Data (TKDD) 9.2 (2014): 10.[[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.707.187&rep=rep1&type=pdf)
+
+**[11]** Liu, Chuanren, Kai Zhang, and Hui Xiong. "**Sequential Pattern Analysis with Right Granularity.**" Data Mining Workshop (ICDMW), 2014 IEEE International Conference on. IEEE, 2014.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7022729/)
+
+
 
 # 2 疾病风险与概率
 
@@ -82,7 +104,7 @@
 
 **[5]** Miotto, Riccardo, et al. "**Deep patient: An unsupervised representation to predict the future of patients from the electronic health records.**" Scientific reports 6 (2016).[[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4869115/)
 
-**[6]** Liu, Chuanren, et al. "**Temporal phenotyping from longitudinal electronic health records: A graph based framework.**" Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015.[[pdf]](http://delivery.acm.org/10.1145/2790000/2783352/p705-liu.pdf?ip=222.175.103.7&id=2783352&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EBA9BBD89F2E1EC6A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=745787523&CFTOKEN=94923865&__acm__=1491033957_5f467ba07cec73d25d5f000f5099f9fb)
+**[6]** Liu, Chuanren, et al. "**Temporal phenotyping from longitudinal electronic health records: A graph based framework.**" Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015.[[pdf]](https://pdfs.semanticscholar.org/00e1/7bd820ffdddfeca041f31ae1691d18f6970c.pdf)
 
 **[7]** Ng, Kenney, et al. "**PARAMO: A PARAllel predictive MOdeling platform for healthcare analytic research using electronic health records.**" Journal of biomedical informatics 48 (2014): 160-170.[[pdf]](http://www.sciencedirect.com/science/article/pii/S1532046413002037)
 
