@@ -13,8 +13,6 @@
 
 ## 1.1 医保欺诈
 
-### 1.1.0 book
-**[1]** Dua, Prerna, and Sonali Bais. "**Supervised learning methods for fraud detection in healthcare insurance.**" Machine Learning in Healthcare Informatics. Springer Berlin Heidelberg, 2014. 261-285.[[pdf]](https://link.springer.com/book/10.1007/978-3-642-40017-9)
 
 ### 1.1.1 Survey
 **[1]** Archenaa, J., and EA Mary Anita. "**A survey of big data analytics in healthcare and government.**" Procedia Computer Science 50 (2015): 408-413.[[pdf]](http://www.sciencedirect.com/science/article/pii/S1877050915005220)
@@ -50,6 +48,23 @@
 **[14]** Branting, L. Karl, et al. "**Graph analytics for healthcare fraud risk estimation.**" Advances in Social Networks Analysis and Mining (ASONAM), 2016 IEEE/ACM International Conference on. IEEE, 2016.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7752336/)
 
 **[15]** Cui, Haoyi, et al. "**Healthcare Fraud Detection Based on Trustworthiness of Doctors.**" Trustcom/BigDataSE/I SPA, 2016 IEEE. IEEE, 2016. [[pdf]](http://ieeexplore.ieee.org/abstract/document/7846931/)
+
+**[16]** Dua, Prerna, and Sonali Bais. "**Supervised learning methods for fraud detection in healthcare insurance.**" Machine Learning in Healthcare Informatics. Springer Berlin Heidelberg, 2014. 261-285.[[pdf]](https://link.springer.com/book/10.1007/978-3-642-40017-9)
+
+**[17]**  Alkhatib, Mohammad, Amir Talaei-Khoei, and Amir Ghapanchi. "**Analysis of Research in Healthcare Data Analytics.**" arXiv preprint arXiv:1606.01354 (2016).[[pdf]](https://arxiv.org/ftp/arxiv/papers/1606/1606.01354.pdf)
+
+**[18]** Christy, A., G. Meera Gandhi, and S. Vaithyasubramanian. "**Cluster Based Outlier Detection Algorithm for Healthcare Data.**" Procedia Computer Science 50 (2015): 209-215.[[pdf]](http://www.sciencedirect.com/science/article/pii/S1877050915005591)
+
+**[19]** Choi, Edward, et al. "**Constructing disease network and temporal progression model via context-sensitive hawkes process.**" Data Mining (ICDM), 2015 IEEE International Conference on. IEEE, 2015.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7373379/)
+
+**[20]** Hrovat, Goran, et al. "**Contrasting temporal trend discovery for large healthcare databases.**" Computer methods and programs in biomedicine 113.1 (2014): 251-257.[[pdf]](http://www.sciencedirect.com/science/article/pii/S0169260713003040)
+
+**[21]** Branting, L. Karl, et al. "**Graph analytics for healthcare fraud risk estimation.**" Advances in Social Networks Analysis and Mining (ASONAM), 2016 IEEE/ACM International Conference on. IEEE, 2016.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7752336/)
+
+**[22]** Yang, Hui, et al. "**Healthcare intelligence: turning data into knowledge.**" IEEE Intelligent Systems 29.3 (2014): 54-68.[[pdf]](http://ieeexplore.ieee.org/abstract/document/6871721/)
+
+**[23]** Lu, Hsin-Min, Chih-Ping Wei, and Fei-Yuan Hsiao. "**Modeling healthcare data using multiple-channel latent Dirichlet allocation.**" Journal of biomedical informatics 60 (2016): 210-223.[[pdf]](http://www.sciencedirect.com/science/article/pii/S1532046416000253)
+
 ## 1.2 其他保险欺诈
 
 **[1]** Lovro Šubelj,Štefan Furlan,Marko Bajec. “**An expert system for detecting automobile insurance fraud using social network analysis**”.Expert Systems with Applications,38(1):1039-1052, 2011.[[pdf]](https://arxiv.org/pdf/1104.3904.pdf)
