@@ -111,7 +111,7 @@
 
 ## 5.1 survey
 
-**[1]** Pölsterl, Sebastian, et al. "**Survival analysis for high-dimensional, heterogeneous medical data: Exploring feature extraction as an alternative to feature selection.**" Artificial Intelligence in Medicine 72 (2016): 1-11.
+**[1]** Alelyani, Salem, Jiliang Tang, and Huan Liu. "**Feature Selection for Clustering: A Review.**" Data Clustering: Algorithms and Applications 29 (2013): 110-121.[[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.295.8115&rep=rep1&type=pdf)
 
 ## 5.2 paper
 
@@ -119,7 +119,12 @@
 
 **[2]** Kamadi, VSRP Varma, Appa Rao Allam, and Sita Mahalakshmi Thummala. "**A computational intelligence technique for the effective diagnosis of diabetic patients using principal component analysis (PCA) and modified fuzzy SLIQ decision tree approach.**" Applied Soft Computing 49 (2016): 137-145.[[pdf]](http://www.sciencedirect.com/science/article/pii/S1568494616302113)
 
-**[3]** Nezhad, Milad Zafar, et al. "**SAFS: A deep feature selection approach for precision medicine.**" Bioinformatics and Biomedicine (BIBM), 2016 IEEE International Conference on. IEEE, 2016.[[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7822569)
+**[3]** Pölsterl, Sebastian, et al. "**Survival analysis for high-dimensional, heterogeneous medical data: Exploring feature extraction as an alternative to feature selection.**" Artificial Intelligence in Medicine 72 (2016): 1-11.
+
+
+**[4]** Nezhad, Milad Zafar, et al. "**SAFS: A deep feature selection approach for precision medicine.**" Bioinformatics and Biomedicine (BIBM), 2016 IEEE International Conference on. IEEE, 2016.[[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7822569)
+
+
 
 # 6 临床决策 
 **[1]** Goodwin, Travis R., and Sanda M. Harabagiu. "**Medical Question Answering for Clinical Decision Support.**" Proceedings of the 25th ACM International on Conference on Information and Knowledge Management. ACM, 2016.[[pdf]](http://delivery.acm.org/10.1145/2990000/2983819/p297-goodwin.pdf?ip=222.175.103.7&id=2983819&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EBA9BBD89F2E1EC6A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=745787523&CFTOKEN=94923865&__acm__=1491032989_02547aad79165885b21a34fab01324dc)
