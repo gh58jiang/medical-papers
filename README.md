@@ -177,3 +177,8 @@
 
 ## 7.2 老年人护理
 **[1]** Dipanwita Dasgupta, Keith Feldman, Disha Waghray, W.A. Mikels-Carrasco, Patty Willaert,Debra A. Raybold, Nitesh V. Chawla."**An Integrated Care Framework for Successful Aging.**" IEEE-EMBS International Conference on Biomedical & Health Informatics,440-443, 2014.
+ 
+# 8 序列预测
+
+## 8.1血压序列预测
+**[1]** Xiaohan Li, Shu Wu, Liang Wang. "**Blood Pressure Prediction via Recurrent Models with Contextual Layer.**" WWW 2017, April 3–7, Perth, Australia(2017).[[pdf]](http://www.shuwu.name/sw/RNN-CL.pdf)(**Propose a novel model named recurrent models with contextual layer.**):star::star::star::star:
