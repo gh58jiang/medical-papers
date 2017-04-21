@@ -121,6 +121,8 @@
 
 **[12]** Choi, Edward, Mohammad Taha Bahadori, and Jimeng Sun. "**Doctor ai: Predicting clinical events via recurrent neural networks.**" arXiv preprint arXiv:1511.05942 (2015). [[pdf]](http://www.jmlr.org/proceedings/papers/v56/Choi16.pdf)
 
+**[13]** Weng, Stephen F., et al. "**Can machine-learning improve cardiovascular risk prediction using routine clinical data?.**" PloS one 12.4 (2017): e0174944.[[pdf]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174944)
+
 ## 2.2 疾病概率排序
 
 **[1]** Davis, Darcy A., et al. "**Time to CARE: a collaborative engine for practical disease prediction.**" Data Mining and Knowledge Discovery 20.3 (2010): 388-415.[[pdf]](https://link.springer.com/article/10.1007%2Fs10618-009-0156-z?LI=true)
