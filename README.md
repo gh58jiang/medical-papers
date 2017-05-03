@@ -123,6 +123,8 @@
 
 **[13]** Weng, Stephen F., et al. "**Can machine-learning improve cardiovascular risk prediction using routine clinical data?.**" PloS one 12.4 (2017): e0174944.[[pdf]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174944)
 
+**[14]** Choi, Edward, et al. "**Using recurrent neural network models for early detection of heart failure onset.**" Journal of the American Medical Informatics Association (2016): ocw112.[[pdf]](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jamia/24/2/10.1093_jamia_ocw112/6/ocw112.pdf?Expires=1493868831&Signature=Ng9Gng8iX-4IxT2DTUYD55C0rMEq~-osglVpj8ogP9pYx80ZB4AE84NUF3ntRaEFcRh0Su-3Os~0r~biKNe2QjD9djnHaPIDF3hpded8YR9cWEO9g-TflF0Wx2v9jFcI-dA6ZBeaVeOw4TC5AFDJMFldRuaEbqANZneDph7zOVGjSLkriDYtwLQSSIaJ6v3hdd18rxkn-tCxfxBvNGhur5HBJ~Q2H8USGVXkYU1u-0ZqWr74Ft5KwTZvllmE-mAH8sWEId083vVggZC1pf55UzpXOeZezGs5RoL3ICHfwyPqKn3gPAUPcYXcd4i6nTPOa3enJkDszmsCF9T26DE9gA__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q)
+
 ## 2.2 疾病概率排序
 
 **[1]** Davis, Darcy A., et al. "**Time to CARE: a collaborative engine for practical disease prediction.**" Data Mining and Knowledge Discovery 20.3 (2010): 388-415.[[pdf]](https://link.springer.com/article/10.1007%2Fs10618-009-0156-z?LI=true)
