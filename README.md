@@ -301,6 +301,6 @@
 
 **[*]** Liu, Chuanren, Kai Zhang, and Hui Xiong. "**Sequential Pattern Analysis with Right Granularity.**" Data Mining Workshop (ICDMW), 2014 IEEE International Conference on. IEEE, 2014.[[pdf]](http://ieeexplore.ieee.org/abstract/document/7022729/)
 
-
+**[*]** Strack, Beata, et al. "**Impact of HbA1c measurement on hospital readmission rates: analysis of 70,000 clinical database patient records.**" BioMed research international 2014 (2014).[[pdf]](http://scholarscompass.vcu.edu/cgi/viewcontent.cgiarticle=1000&context=cmsc_pubs)
 
 
