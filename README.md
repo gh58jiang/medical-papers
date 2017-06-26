@@ -20,7 +20,10 @@
  5.2特征选择与提取
  5.3数据整合分析
 
-6.	其他（非医保直接相关但是可以借鉴的文章）。
+6.	精准医疗:
+ 6.1 subtype
+
+7.其他（非医保直接相关但是可以借鉴的文章）。
 
 ---------------------------------------
 
@@ -269,7 +272,20 @@
 
 ***
 
-# 6.	其他。
+# 6.精准医疗
+***
+
+##6.1 subtype
+
+***
+
+**[1]** Saria, Suchi, and A. Goldenberg. "**Subtyping: What It is and Its Role in Precision Medicine.**" IEEE Intelligent Systems 30.4(2015):70-75.[[pdf]](http://ieeexplore.ieee.org/document/7156005/)
+
+[subtype介绍与综述]</br>
+
+
+***
+# 7.	其他。
 **[1]** Lovro Šubelj,Štefan Furlan,Marko Bajec. “**An expert system for detecting automobile insurance fraud using social network analysis**”.Expert Systems with Applications,38(1):1039-1052, 2011.[[pdf]](https://arxiv.org/pdf/1104.3904.pdf)
 
 [一个使用社交网络分析检测汽车保险欺诈的专家系统]</br>
